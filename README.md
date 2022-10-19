@@ -1,10 +1,10 @@
-# GDSC AJCE
-### Introduction to Git and Github
-	This repo is maintained for introducing Github workflows
-	
 <img style="float: center;" 
 src="images/hero.jpeg" 
 alt="intro to git and github" />
+
+# GDSC AJCE
+### Introduction to Git and Github
+	This repo is maintained for introducing Github workflows
 
 <hr>
 
@@ -155,7 +155,7 @@ Now submit the pull request.
 src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" 
 alt="submit pull request" />
 
-Soon I'll be merging all your changes into the main branch of this 
+Soon we'll be merging all your changes into the main branch of this 
 project. You will get a notification email once the changes have been 
 merged.
 
