@@ -10,8 +10,7 @@ This project aims to simplify and guide the way beginners make their first
 contribution. If you are looking to make your first contribution, follow 
 the steps below.
 
-_If you're not comfortable with command line, [here are tutorials using 
-GUI tools.](#tutorials-using-other-tools)_
+_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 
 <img align="right" width="300" 
@@ -159,5 +158,5 @@ merged.
 
 
 For queries, contact:
-[Zameel Hassan](https://github.com/zameel7)
-[Joel John](https://github.com/helixjoe)
+- [Zameel Hassan](https://github.com/zameel7)
+- [Joel John](https://github.com/helixjoe)
