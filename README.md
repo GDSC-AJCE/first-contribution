@@ -1,5 +1,9 @@
-<img style="float: center;" 
+<img align="right" width="450" 
 src="images/hero.jpeg" 
+alt="intro to git and github" />
+
+<img align="left" width="450" 
+src="images/hero2.jpeg" 
 alt="intro to git and github" />
 
 # GDSC AJCE
