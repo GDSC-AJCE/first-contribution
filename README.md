@@ -1,7 +1,7 @@
-<img align="left" width="48%" 
+<img align="left" width="45%" 
 src="images/hero.jpeg" 
 alt="intro to git and github" />
-<img align="right" width="48%" 
+<img align="right" width="45%" 
 src="images/hero2.jpeg" 
 alt="intro to git and github" />
 
