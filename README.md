@@ -1,10 +1,12 @@
-<img align="right" width="450" 
+<img align="left" width="48%" 
 src="images/hero.jpeg" 
 alt="intro to git and github" />
-
-<img align="left" width="450" 
+<img align="right" width="48%" 
 src="images/hero2.jpeg" 
 alt="intro to git and github" />
+
+<br clear="right"/>
+<hr>
 
 # GDSC AJCE
 ### Introduction to Git and Github
