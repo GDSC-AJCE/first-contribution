@@ -1,6 +1,10 @@
 # GDSC AJCE
 ### Introduction to Git and Github
 	This repo is maintained for introducing Github workflows
+	
+<img style="float: center;" 
+src="images/hero.jpeg" 
+alt="intro to git and github" />
 
 <hr>
 
