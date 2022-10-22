@@ -7,5 +7,4 @@ profile
 > Example: [Zameel Hassan](https://github.com/zameel7)
 
 ### Contributors:
-- [Joel C Raju](https://github.com/joelcr10)
 - [Varsha JJ](https://github.com/Varsha-JJ)
