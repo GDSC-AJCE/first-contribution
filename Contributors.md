@@ -19,6 +19,14 @@ profile
 - [Ria Mariam Mathews](https://github.com/RMM28)
 - [Alan Shijo](https://github.com/alanshijo)
 - [Clense Santhosh](https://github.com/cscreationz)
+- [Alan Jose](https://github.com/alanjuice)
 - [Abhinand s](https://github.com/Abhinand-s)
+
+- [Alfin Albert](https://github.com/alfinalbert10)
 - [Joel John](https://github.com/Helixjoe)
+
 - [Jobin T J](https://github.com/JOBINTJ24)
+
+- [Neha M](https://github.com/neha-haridas)
+
+
