@@ -7,6 +7,7 @@ profile
 > Example: [Zameel Hassan](https://github.com/zameel7)
 
 ### Contributors:
+- [Joel John](https://github.com/Helixjoe)
 
 - [Elizabeth Jullu](https://github.com/ElzaJ009)
 - [Varsha JJ](https://github.com/Varsha-JJ)
@@ -24,7 +25,7 @@ profile
 - [Abhinand s](https://github.com/Abhinand-s)
 
 - [Alfin Albert](https://github.com/alfinalbert10)
-- [Joel John](https://github.com/Helixjoe)
+- 
 
 - [Jobin T J](https://github.com/JOBINTJ24)
 
