@@ -24,11 +24,11 @@ profile
 - [Abhinand s](https://github.com/Abhinand-s)
 
 - [Alfin Albert](https://github.com/alfinalbert10)
-- [Joel John](https://github.com/Helixjoe)
+- 
 
 - [Jobin T J](https://github.com/JOBINTJ24)
 
 - [Neha M](https://github.com/neha-haridas)
 
 - [Raynell Rajeev](https://github.com/raynellrajeev)
- 
+- [Joel John](https://github.com/Helixjoe)
