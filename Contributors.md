@@ -27,3 +27,4 @@ profile
 - [Neha M](https://github.com/neha-haridas)
 - [Raynell Rajeev](https://github.com/raynellrajeev)
 - [Joel John](https://github.com/Helixjoe)
+- [Stephen Paul](https://github.com/iamStepaul)
