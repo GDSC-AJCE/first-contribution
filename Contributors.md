@@ -1,6 +1,6 @@
 ```
 [your name](link to your github profile)
-Try not to put extra spaces or change the brackets while adding your 
+Try not to put extra spaces or change the brackets while adding your
 profile
 ```
 
@@ -29,3 +29,4 @@ profile
 - [Joel John](https://github.com/Helixjoe)
 - [Stephen Paul](https://github.com/iamStepaul)
 - [Sumayya Maheen](https://github.com/sumayya16)
+- [Gauthami S](https://github.com/GAUTHAMI-S)
